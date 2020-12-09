@@ -95,11 +95,11 @@ analytics:
 author:
   name             : "Jesse Chang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A senior @ Oxford Academy. I'm big on art interpretations of film, tv shows, books, and paintings. Here's my creative space to encourage others to appreciate art."
+  bio              : "Senior @ Oxford Academy.  Big on art interpretations of film, tv shows, books, and paintings. My creative space"
   location         : "Los Angeles, CA"
   email            :
   links:
-    - label: "Email"
+    - label: ""
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:changjesse2002@gmail.com"
     - label: "Website"

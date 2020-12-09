@@ -1,4 +1,4 @@
-### Nana Analysis
+## Familiarity in fiction is important for one thing: we start to believe rather than merely acknowledge the messages and sayings that are told to us throughout life. By witnessing the events being a reality through the friends on the screen.
 
 A thing that I have noticed in the way characters and the world interact in fiction is that
 there seems to be a great deal of focus on the extravagant. In fiction, there seems to be a fast

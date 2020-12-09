@@ -1,4 +1,4 @@
-## Nana Analysis
+### Nana Analysis
 
 A thing that I have noticed in the way characters and the world interact in fiction is that
 there seems to be a great deal of focus on the extravagant. In fiction, there seems to be a fast
@@ -14,6 +14,7 @@ the events being a reality through the friends on the screen. And by creating mo
 may have a more lasting impact that will resonate with us and allow us to go out with a
 heightened perspective and act accordingly. One anime that I believe finds this great balance is
 Nana.
+
 Nana distinguishes itself from other works from the slice of life genre by capitalizing on
 an aspect of life that is often overlooked, but nonetheless prevalent. A thing that is familiar to all
 of us: awkward moments. The times when we depart and proceed to go in the same direction.
@@ -24,6 +25,7 @@ the ways in which things go wrong, but what differentiates awkward from a deus e
 the way that life does not shatter the ideal scenes that we have in our minds, but distorts it. In
 addition, Nana is masterful in emulating the human experience by having characters react to life
 events in the ways a human would.
+
 In the spontaneous nature of life, events go in all sorts of directions. Eventually, there
 are moments bound to be colliding and knotting and cutting off one another. And by this,
 awkward moments are born. A scenario that I find that illustrates this is through Hachi and
@@ -41,11 +43,13 @@ that are unconventional with the harmonic idea of how things should be. They wer
 communicate and fix the misunderstanding so they were offset into different realities. A reality
 where Hachi has abandoned Nobu for Takumi. A reality where Nobu is no longer a part of
 Hachi’s story.
+
 Rather than a forceful ripping of fates, the scenario illustrated here was a slow
 unraveling. And by this, I believe that it demonstrates the awkward as the small
 misunderstandings and unconventional things and the “should not”s exist and pose as much of
 a problem. By illustrating the awkward, it is reflective of the nature of circumstance in our worldmessy
 and irregular.
+
 There is a great bit of humanity present in the interaction between Nobu and Hachi. As
 people, we tend to only consider the reality for what it shows. We fantasize about the implied
 messages between words and the possible context before an encounter, but all fall short
@@ -55,6 +59,7 @@ we relate with Nobu as there are times when we are oblivious to what is truly th
 makes us lose out on a lot of opportunities in life. Granted, we may never know whether or not
 we misinterpreted, but we know that it exists, and herein lies a relational attachment that we
 may form with the characters.
+
 Continuing on, later, we see Nobu texting Hachi to talk about what has happened.
 However, Nobu gets no response. I believe that because of their initial encounter, the encounter
 that made Nobu perceive through a window of abandonment, he was able to see this encounter
@@ -88,6 +93,7 @@ the time leading up to the event Hachi was very jolly. When given this opportuni
 that he is out of Hachi’s story is taken away.
 It all goes to plan, all things are in line and clean… until she meets Shoji. After talking
 with Shoji, Hachi becomes disheartened.
+
 However, once she encounters Shoji and they talk, Hachi is too sad to go to the event.
 Because what just happened pertains to Nobu; Hachi sees Nobu through her situation with
 Shoji. Hachi knows how it feels to be on the receiving end of being in the dark about betrayal,
@@ -107,6 +113,7 @@ that she’s scared of creating problems and losing the happiness that she has. 
 if she was scared of falling for Nobu again, she wouldn’t have invited the friends over to the
 event. Hachi was comfortable enough originally to hang out with Nobu as friends. What Hachi
 was scared of Nobu through these new circumstances.
+
 In the end, Nobu was unable to see for himself whether or not Hachi was happy or not.
 Hachi’s happiness would have been the decider as to whether or not Nobu would be stepping in
 to steal Hachi. But unfortunately, from the information that Nobu was fed, he knew all he needed
@@ -116,6 +123,7 @@ somewhat true that Hachi chose Takumi, Nana’s words blew it out of proportion 
 Nobu the wrong idea. Hachi was not afraid of falling in love with Nobu again. Could Nobu have
 won over Hachi if it weren’t for the misunderstandings? Probably not, but having no attempt at
 all gets rid of all possibilities.
+
 To me, Nana is a reminder that things will not always go in our favor. And this is
 communicated very well by creating a world that is reminiscent of our own, by showing the slow,
 painful crawl that we must sometimes bear. However, there is more to it. Yes, Nana creates

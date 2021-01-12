@@ -1,5 +1,5 @@
 <figure>
-  <img src="/assets/images/samurai.png" alt="">
+  <img src="/assets/img/samurai.png" alt="">
   <figcaption></figcaption>
 </figure>
 

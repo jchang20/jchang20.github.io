@@ -1,5 +1,5 @@
 <figure>
-  <img src="/assets/images/life-and-light.png" alt="">
+  <img src="/assets/img/life-and-light.png" alt="">
   <figcaption></figcaption>
 </figure>
 

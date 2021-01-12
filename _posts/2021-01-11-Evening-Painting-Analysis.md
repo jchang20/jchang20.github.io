@@ -1,5 +1,7 @@
-image: 
-    feature: "/assets/img/life-and-light.png"
+<figure>
+  <img src="/assets/images/life-and-light.png" alt="">
+  <figcaption></figcaption>
+</figure>
 
 This is “Evening: Landscape with an Aqueduct” by Théodore Gericault. This takes place in the ruins of an Italian countryside. Gericault visited this place in 1816 and 1817 and painted it in his Paris studio.   
 
